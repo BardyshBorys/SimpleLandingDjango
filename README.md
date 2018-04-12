@@ -1,0 +1,1 @@
+# Simple Django project with one landing page
